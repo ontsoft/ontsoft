@@ -1,2 +1,2 @@
-# ontsoft website
-Onsoft Inc.
+# ontsoft.github.io
+Ontsoft Github page.
